@@ -1,0 +1,9 @@
+# Arulmigu Sri Ellaiyamman Temple, Korkadu, Puducherry
+# Official Website: https://www.korkaduellaiamman.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.korkaduellaiamman.com/sitemap.xml
+Sitemap: https://korkaduellaiamman.netlify.app/sitemap.xml
