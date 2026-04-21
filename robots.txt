@@ -6,4 +6,4 @@ Allow: /
 
 # Sitemap location
 Sitemap: https://www.korkaduellaiamman.com/sitemap.xml
-Sitemap: https://korkaduellaiamman.netlify.app/sitemap.xml
+
